@@ -1,0 +1,9 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security vulnerability
+    url: TODO
+    about: Please report sensitive security issues through a private channel, not public issues.
+  - name: General contact
+    url: TODO
+    about: Use this contact path for questions that are not bugs or feature requests.
+
